@@ -1,0 +1,39 @@
+#city {
+    border: 1px solid #00000047;
+    border-radius: 9px;
+    height: 40px;
+    width: 70%;
+    color: rgb(0, 0, 0) !important;
+
+}
+
+.headings {
+    display: inline-block;
+    font-size: 26px;
+    color: #000000a6;
+    margin: 15px;
+}
+
+img {
+    height: 150px !important;
+}
+body, html {
+    height: 100%;
+  }
+*{
+    color: aliceblue !important;
+
+}
+  
+.bg {
+    /* The image used */
+    background-image: url("wave-haikei.svg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
